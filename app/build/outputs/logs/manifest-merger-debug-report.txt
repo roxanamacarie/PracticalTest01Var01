@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f7b02980c2cbed81824efba131fdd004/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2ec03fe775f74707c5d3bf2a2b22484a/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/305d14d31dd5196c3ba6c6796510d1ed/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/student/.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d3376233742576b5383065815c4f61eb/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cdba9021627ada343c69fcffc04f7ba/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/271f2ce1a3172ec8752a558acff6936e/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:3:5-78
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
-		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
-		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f7b02980c2cbed81824efba131fdd004/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f7b02980c2cbed81824efba131fdd004/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2ec03fe775f74707c5d3bf2a2b22484a/AndroidManifest.xml:9:5-20
@@ -82,6 +82,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:16:27-74
+activity#practicaltest01var01.eim.systems.cs.pub.ro.practicaltest01var01.PracticalTest01SecondaryActivity
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:22:13-70
+	android:name
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:21:13-61
+intent-filter#android.intent.category.DEFAULT+ro.pub.cs.systems.eim.intent.action.PracticalTest01SecondaryActivity
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:23:13-26:29
+action#ro.pub.cs.systems.eim.intent.action.PracticalTest01SecondaryActivity
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:24:17-111
+	android:name
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:24:25-108
+category#android.intent.category.DEFAULT
+ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml:25:27-73
 uses-sdk
 INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/student/practic/PracticalTest01Var01/app/src/main/AndroidManifest.xml
